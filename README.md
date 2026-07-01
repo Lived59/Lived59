@@ -1,4 +1,4 @@
-Estudiante de Ingeniería en Sistemas en la Universidad ORT Uruguay, titulado como Ayudante de Ingeniero en Sistemas. En constante aprendizaje, apasionado por el desarrollo de software, los sistemas distribuidos y las buenas prácticas de ingeniería.
+Estudiante de Ingeniería en Sistemas en la Universidad ORT Uruguay, titulado como Ayudante de Ingeniero en Sistemas. En constante aprendizaje, apasionado por el desarrollo de software, el diseño de aplicaciones y la ingeniería de software.
 <!--
 **Lived59/Lived59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
